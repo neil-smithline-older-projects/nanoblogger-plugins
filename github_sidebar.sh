@@ -4,13 +4,15 @@
 ###                     Nanoblogger Plugin
 ###
 ### This plugin provides a sidebar item with your recent Github
-### activity. The sidebar data is formatted and produced by
-### http://githubbadge.appspot.com.
+### activity. See http://bit.ly/ISTJ1M for an example.
+###
+### The sidebar data is produced and formatted by the courtesy of:
+###         http://githubbadge.appspot.com.
 ###
 ### To use this plugin, save this file to
 ###         <blog-root>/plugins/github_sidebar.sh
 ###
-### Add the following to your blog.conf file.
+### Add the following lines to your blog.conf file.
 ###
 ###         # --- Plugin: Github Sidebar Preferences ---
 ###         #
@@ -21,9 +23,9 @@
 ###         # set the optional Github sidebar title.
 ###         # e.g. GITHUB_TITLE="My Repos!"
 ###
-### Replacing "your-github-username" with your Github username.
+### Replace "your-github-username" with your Github username.
 ###
-### Then add "$SIDEBAR_GITHUB" to appropriate files in your template
+### Add "$SIDEBAR_GITHUB" to appropriate files in your template
 ### directory. main_index.htm is the most likely location.
 ###
 ### Please note that while most other NB plugins only contain data for
@@ -31,7 +33,7 @@
 ### Because this plugin requires special XSS style data, the data as
 ### well as the HTML code to frame it are included.
 ###
-### You can change the XSS directly in this plugin.
+### If you need to you can change the XSS directly in this plugin.
 ###
 ### Github Sidebar Plugin for Nanoblogger by Neil Smithline
 ### (http://bit.ly/yGGszW) is licensed under a Creative Commons
