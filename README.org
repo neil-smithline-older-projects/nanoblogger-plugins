@@ -1,0 +1,6 @@
+Plugins For Nanoblogger
+
+*** Github Plugin For Nanoblogger
+Add a sidebar badge that summarizes your Github activity.
+
+Github Plugin For Nanoblogger by [[http://bit.ly/yGGszW][Neil Smithline]] is licensed under a [[http://bit.ly/JXHIWg][Creative Commons Attribution-ShareAlike 3.0 Unported License]].
