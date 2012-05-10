@@ -3,8 +3,8 @@
 *** Github Plugin For Nanoblogger
 Add a sidebar badge that summarizes your Github activity.
 
-[[http://bit.ly/ISTJ1M]]
+[[https://plus.google.com/photos/104257546204106753046/albums/5740912424338285745?banner=pwa]]
 An Example Badge
 
-*** Licensing
+*** Licensin
 Github Plugin For Nanoblogger by [[http://bit.ly/yGGszW][Neil Smithline]] is licensed under a [[http://bit.ly/JXHIWg][Creative Commons Attribution-ShareAlike 3.0 Unported License]].
