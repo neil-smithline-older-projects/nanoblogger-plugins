@@ -1,4 +1,4 @@
-Plugins For Nanoblogger
+* Plugins For Nanoblogger
 
 *** Github Plugin For Nanoblogger
 Add a sidebar badge that summarizes your Github activity.
